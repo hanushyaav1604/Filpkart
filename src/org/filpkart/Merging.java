@@ -7,7 +7,8 @@ public class Merging {
 		System.out.println("123");
 		System.out.println("ABC");
 		
-		
+		System.out.println("MNO");
+
 	}
 
 }
